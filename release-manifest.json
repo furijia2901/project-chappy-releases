@@ -1,9 +1,9 @@
 {
-  "version": "0.5.2",
-  "schema": 7,
+  "version": "0.5.3",
+  "schema": 8,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.2/ProjectChappy-0.5.2.zip",
-  "size": 8920370,
-  "sha256": "08aebf4be3d8b3a892490b6662c4213d54692adc7b8a6e29a8e8ce763c959ffc",
-  "notes": "無料PC内AIによる収集資料の要約・原文比較・知識候補の確認保存を追加。自動要約は初期状態OFF、1日3回まで。AI生成文は推測として保存。登録データ・画像・会話設定を保持。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.3/ProjectChappy-0.5.3.zip",
+  "size": 9535152,
+  "sha256": "bc4a40229933da1fc76e31766772117050c45661e02b448f2cebf0fc02a25c51",
+  "notes": "好みから検索テーマを選び、登録外のサイトも探す無料Web探索（試験機能）を追加。初期OFF・6時間間隔・1日3回。取得本文を未確認ニュースへ届け、任意でPC内AI要約。検索サービスの制限時は休止。既存データを保持。"
 }
