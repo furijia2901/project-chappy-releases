@@ -1,9 +1,9 @@
 {
-  "version": "0.5.0",
-  "schema": 5,
+  "version": "0.5.1",
+  "schema": 6,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.0/ProjectChappy-0.5.0.zip",
-  "size": 8011078,
-  "sha256": "92d5add9a4c1ea45575078711970312367d5ecaae5c4b7e81da1967abab82d52",
-  "notes": "Chappyとのテキスト会話・登録知識の参照・履歴保存・OpenAI接続設定を追加。初期状態は無料のローカル案内。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.1/ProjectChappy-0.5.1.zip",
+  "size": 8586545,
+  "sha256": "4fb46fd0cdde8966682a8afea61d0934258e3efeca5a55e45ec348030cb50c4d",
+  "notes": "無料のPC内AI（Ollama）と会話できる機能・接続確認・初回準備ガイドを追加。有料APIを禁止する無料モードは初期状態ON。登録データと会話履歴を保持。"
 }
