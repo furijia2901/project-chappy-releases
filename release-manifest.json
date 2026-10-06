@@ -1,9 +1,9 @@
 {
-  "version": "0.4.1",
-  "schema": 4,
+  "version": "0.5.0",
+  "schema": 5,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.4.1/ProjectChappy-0.4.1.zip",
-  "size": 7583945,
-  "sha256": "d363d37610d81120f46a7909d1572df41e86bd3b8986ddfdab3dc124ddcb2be4",
-  "notes": "Windowsで日本語の更新結果を読めず、アップデート欄が失敗する不具合を修正。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.0/ProjectChappy-0.5.0.zip",
+  "size": 8011078,
+  "sha256": "92d5add9a4c1ea45575078711970312367d5ecaae5c4b7e81da1967abab82d52",
+  "notes": "Chappyとのテキスト会話・登録知識の参照・履歴保存・OpenAI接続設定を追加。初期状態は無料のローカル案内。"
 }
