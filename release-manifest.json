@@ -1,9 +1,9 @@
 {
-  "version": "0.3.1",
-  "schema": 3,
+  "version": "0.4.0",
+  "schema": 4,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.3.1/ProjectChappy-0.3.1.zip",
-  "size": 7071653,
-  "sha256": "5f81a50ab4504754c3ffc592a1c4d33b81d3e418fc6a8b0aebc9dfdcb95464f7",
-  "notes": "固定インストール・アプリ内アップデート対応"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.4.0/ProjectChappy-0.4.0.zip",
+  "size": 7583295,
+  "sha256": "bad8e1cb1a7156db93872766b1911ddfd4be72f0933ed655d6de59e67e4bce26",
+  "notes": "自主研究の予定・定期確認・実行上限・履歴を追加（アプリ起動中）。更新の接続待ちを改善。"
 }
