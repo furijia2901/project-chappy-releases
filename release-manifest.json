@@ -1,0 +1,9 @@
+{
+  "version": "0.3.1",
+  "schema": 3,
+  "launcher_api": 1,
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.3.1/ProjectChappy-0.3.1.zip",
+  "size": 7071653,
+  "sha256": "5f81a50ab4504754c3ffc592a1c4d33b81d3e418fc6a8b0aebc9dfdcb95464f7",
+  "notes": "固定インストール・アプリ内アップデート対応"
+}
