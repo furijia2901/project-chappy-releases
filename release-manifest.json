@@ -1,9 +1,9 @@
 {
-  "version": "0.5.3",
-  "schema": 8,
+  "version": "0.5.4",
+  "schema": 9,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.3/ProjectChappy-0.5.3.zip",
-  "size": 9535152,
-  "sha256": "bc4a40229933da1fc76e31766772117050c45661e02b448f2cebf0fc02a25c51",
-  "notes": "好みから検索テーマを選び、登録外のサイトも探す無料Web探索（試験機能）を追加。初期OFF・6時間間隔・1日3回。取得本文を未確認ニュースへ届け、任意でPC内AI要約。検索サービスの制限時は休止。既存データを保持。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.4/ProjectChappy-0.5.4.zip",
+  "size": 9897551,
+  "sha256": "13b2f5bf66b4803678ed0ec3b40b0603a7755c6afc0dd70333156da073616de9",
+  "notes": "キャラクター図鑑に公式一覧からの新キャラ候補・任意の自動追加と、公式画像/ファンアートの出典つき画像候補を追加。作者と利用条件を確認してアイコン・ホームへ設定。検索の休止/上限を共有。既存データを保持。実サイトは形式/取得制限によって未対応の場合があります。"
 }
