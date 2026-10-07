@@ -1,9 +1,9 @@
 {
-  "version": "0.5.15",
+  "version": "0.5.16",
   "schema": 9,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.15/ProjectChappy-0.5.15.zip",
-  "size": 13934424,
-  "sha256": "670dd9a8137e08164af8471661dd8cb685fe22b2c94e56272fdc56437f85be49",
-  "notes": "おまかせ画像のアルバムを追加。図鑑でお気に入り・ホームの絵に固定・見送りと取消が可能。固定中はそのキャラの画像取得を停止し、見送った画像URLは再選択しません。保存済み画像の操作は無料・通信なし。お気に入り/固定/出典/除外は再起動と画像つきバックアップで保持。既存のキャラ好み・知識・画像を保持。全キャラ合計アルバム100件/お気に入り50枚/固定50キャラ/見送り500件。別URLの同じ絵の判定は未対応。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.16/ProjectChappy-0.5.16.zip",
+  "size": 13941968,
+  "sha256": "961d4071a1b69ddc0db508ce27fbe3fe937c0f763c6154230d000ceed742e176",
+  "notes": "おまかせ画像の再試行を改善。一時的な通信失敗は30分後、検索HTTP429は1時間・3時間・12時間・24時間の段階待ち。検索先のRetry-Afterを尊重。人間確認/HTTP202・403と旧版の休止期限は保持。取得拒否ページを記憶して候補から除外し、待ち理由・再試行時刻・除外履歴を表示。アプリ起動中のみ、画像1日3回・検索共有上限の範囲で実行。アルバム・知識・画像・会話・設定を保持。"
 }
