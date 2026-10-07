@@ -1,9 +1,9 @@
 {
-  "version": "0.5.10",
+  "version": "0.5.11",
   "schema": 9,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.10/ProjectChappy-0.5.10.zip",
-  "size": 12218783,
-  "sha256": "58b3f789080c27e9a6c572cb1d8d2361bfd6632b06659d4019a27c5660b7ace4",
-  "notes": "無料のWindows内蔵音声による返事の読み上げを追加。設定→Chappyの声→使える声を確認→ONにして保存。会話の返事の読み上げるボタンで開始、右下で停止。速さ・音量・声を保存。手動のみ・追加ソフト/APIキー不要・読み上げ通信なし。1回4000文字/最長2分。Windows実際の発声は未検証。マイク会話は今後の拡張。既存データと日替わり画像を保持。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.11/ProjectChappy-0.5.11.zip",
+  "size": 12890903,
+  "sha256": "72ddc87df004b36bf9740859101674679e0d8a2280c4d614c0eacd00bc697e2f",
+  "notes": "新しい返事の自動読み上げを追加。設定→Chappyの声→読み上げONと新しい返事を自動で読み上げるをON→保存。初期自動OFF。新しく保存された返事だけ読み、履歴・再起動・再送では再生しません。再生中の新しい返事は見送り通知、待ち行列なし。右下で停止可能。無料・追加ソフト/APIキー不要。既存データ保持。Windows実発声は未検証。"
 }
