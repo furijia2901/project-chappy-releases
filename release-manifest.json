@@ -1,9 +1,9 @@
 {
-  "version": "0.5.18",
+  "version": "0.5.19",
   "schema": 9,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.18/ProjectChappy-0.5.18.zip",
-  "size": 14252092,
-  "sha256": "c7d70a57d4065600ea97bf46b0c6038f4683939a6792d2bba3e1b165b9904105",
-  "notes": "ホームにChappyが選んだ最近の絵を追加。全キャラの保存アルバムから新しい3枚と取得日時・投稿元・お気に入り/固定状態を表示。見送った絵は除外。保存画像だけを使用し、ホーム表示による検索・外部画像取得は行いません。無料・追加ソフト不要、既存のデータ・画像・検索休止・上限を保持。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.19/ProjectChappy-0.5.19.zip",
+  "size": 14257021,
+  "sha256": "cf66df934446b2351946204a535a16269782bf8160e29c42b3573017df63ed86",
+  "notes": "ホームの最近の一枚と図鑑のアルバムに画像の拡大表示を追加。作品・キャラ・取得日時・出典・お気に入り/固定状態を確認できます。Esc/閉じるで元の操作へ戻り、画像欠損は案内表示。保存画像だけを使い検索や外部画像取得は行いません。無料・追加ソフト不要、既存のデータ・画像・アルバム・検索休止・上限を保持。"
 }
