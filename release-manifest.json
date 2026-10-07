@@ -1,9 +1,9 @@
 {
-  "version": "0.5.17",
+  "version": "0.5.18",
   "schema": 9,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.17/ProjectChappy-0.5.17.zip",
-  "size": 14148307,
-  "sha256": "c8d806223d6d4bcec0031503e1449a31b005120a145c2d4e8b02e6e86503c332",
-  "notes": "ホームに今日の絵の準備状況を追加。おまかせOFF・選択中・検索/再試行待ち・完了・固定・上限・保留を保存記録から表示。待ち理由と再開可能時刻、図鑑への導線を追加。30秒ごとの状態表示はネット検索や画像取得を開始せず、無料・追加ソフト不要。既存の再試行制限・画像・アルバム・好み・知識・会話を保持。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.18/ProjectChappy-0.5.18.zip",
+  "size": 14252092,
+  "sha256": "c7d70a57d4065600ea97bf46b0c6038f4683939a6792d2bba3e1b165b9904105",
+  "notes": "ホームにChappyが選んだ最近の絵を追加。全キャラの保存アルバムから新しい3枚と取得日時・投稿元・お気に入り/固定状態を表示。見送った絵は除外。保存画像だけを使用し、ホーム表示による検索・外部画像取得は行いません。無料・追加ソフト不要、既存のデータ・画像・検索休止・上限を保持。"
 }
