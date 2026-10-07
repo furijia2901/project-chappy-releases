@@ -1,9 +1,9 @@
 {
-  "version": "0.5.16",
+  "version": "0.5.17",
   "schema": 9,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.16/ProjectChappy-0.5.16.zip",
-  "size": 13941968,
-  "sha256": "961d4071a1b69ddc0db508ce27fbe3fe937c0f763c6154230d000ceed742e176",
-  "notes": "おまかせ画像の再試行を改善。一時的な通信失敗は30分後、検索HTTP429は1時間・3時間・12時間・24時間の段階待ち。検索先のRetry-Afterを尊重。人間確認/HTTP202・403と旧版の休止期限は保持。取得拒否ページを記憶して候補から除外し、待ち理由・再試行時刻・除外履歴を表示。アプリ起動中のみ、画像1日3回・検索共有上限の範囲で実行。アルバム・知識・画像・会話・設定を保持。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.17/ProjectChappy-0.5.17.zip",
+  "size": 14148307,
+  "sha256": "c8d806223d6d4bcec0031503e1449a31b005120a145c2d4e8b02e6e86503c332",
+  "notes": "ホームに今日の絵の準備状況を追加。おまかせOFF・選択中・検索/再試行待ち・完了・固定・上限・保留を保存記録から表示。待ち理由と再開可能時刻、図鑑への導線を追加。30秒ごとの状態表示はネット検索や画像取得を開始せず、無料・追加ソフト不要。既存の再試行制限・画像・アルバム・好み・知識・会話を保持。"
 }
