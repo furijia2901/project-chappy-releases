@@ -1,9 +1,9 @@
 {
-  "version": "0.5.8",
+  "version": "0.5.9",
   "schema": 9,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.8/ProjectChappy-0.5.8.zip",
-  "size": 11157873,
-  "sha256": "a927df3ffb1b012154503327fbdfe21ab19305236239355bbb2a538f3e37362d",
-  "notes": "知識の変更履歴に現在との比較と確認付き復元を追加。出典・確認状態・信頼度も並べて確認でき、過去の内容を新しい版として保存。戻す前の履歴・ピン留め・アーカイブ・関連付けを保持。比較後の編集や二重操作は上書き拒否。無料・追加ソフト不要・外部送信なし。検索の休止表示の一貫性も修正。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.9/ProjectChappy-0.5.9.zip",
+  "size": 11589091,
+  "sha256": "af4b092ff5941a79b6185cb73a8b64ae034ffd11812ed782d93e861b9c3c2290",
+  "notes": "今日のキャラに日替わりの絵を追加。図鑑で作者・利用条件を確認した作品だけを候補へ登録し、設定でONにするとホームへ作者・出典付きで表示。同じ日は固定、複数作品なら前回を避けて抽選。通常画像・アイコン・好み・知識は維持。作品編集は再確認まで停止。無料・追加ソフト不要。日替わり選出は通信なし。"
 }
