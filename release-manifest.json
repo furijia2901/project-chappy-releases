@@ -1,9 +1,9 @@
 {
-  "version": "0.5.6",
+  "version": "0.5.7",
   "schema": 9,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.6/ProjectChappy-0.5.6.zip",
-  "size": 10320475,
-  "sha256": "ed6d17fa0e36673a8a3683f2b2e024eb29628d1e6377573027a6ed9e8cb3d888",
-  "notes": "保存済み知識を会話で活用する検索を強化。日本語の話題/カテゴリ/タグ、同名キャラのゲーム別選択、最近7日間の新規知識に対応。質問例ボタンと現在の知識詳細への導線を追加。ローカル案内は無料・追加ソフト不要・外部送信なし。既存データを保持。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.7/ProjectChappy-0.5.7.zip",
+  "size": 10905307,
+  "sha256": "e6fbc1cfbe4de44edd680b83bee2f1a3c8152e9a086db49e4459e3e94b7434a7",
+  "notes": "設定に画像つき完全バックアップと別PCへの引っ越しを追加。ZIP保存・件数確認・次回起動時の復元予約と取消に対応。復元直前の記録を退避ZIPで保持し、中断復旧を用意。復元後は無料モード・自動処理OFF。無料・追加ソフト不要・外部送信なし。既存データを保持。"
 }
