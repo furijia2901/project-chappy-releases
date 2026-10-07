@@ -1,9 +1,9 @@
 {
-  "version": "0.5.11",
+  "version": "0.5.12",
   "schema": 9,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.11/ProjectChappy-0.5.11.zip",
-  "size": 12890903,
-  "sha256": "72ddc87df004b36bf9740859101674679e0d8a2280c4d614c0eacd00bc697e2f",
-  "notes": "新しい返事の自動読み上げを追加。設定→Chappyの声→読み上げONと新しい返事を自動で読み上げるをON→保存。初期自動OFF。新しく保存された返事だけ読み、履歴・再起動・再送では再生しません。再生中の新しい返事は見送り通知、待ち行列なし。右下で停止可能。無料・追加ソフト/APIキー不要。既存データ保持。Windows実発声は未検証。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.12/ProjectChappy-0.5.12.zip",
+  "size": 13962396,
+  "sha256": "40c745f783bbc23cbaaaabce49b6642fe25135f40afaa5ed1a21f31b4eb29639",
+  "notes": "ホームの研究報告を声で聞ける機能を追加。Chappyの声をON→ホームの報告を声で聞く→内容確認→この内容を読み上げる。保存記録の件数、新しい知識最大4件の確認状態と情報源、確認待ち件数を紹介。読了・既読・知識確認状態は変更しません。確認時点の文章を5分以内に再生。無料・外部通信/追加ソフト不要。既存データ保持。Windows実発声は未検証。"
 }
