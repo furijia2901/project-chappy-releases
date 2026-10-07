@@ -1,9 +1,9 @@
 {
-  "version": "0.5.19",
+  "version": "0.5.20",
   "schema": 9,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.19/ProjectChappy-0.5.19.zip",
-  "size": 14257021,
-  "sha256": "cf66df934446b2351946204a535a16269782bf8160e29c42b3573017df63ed86",
-  "notes": "ホームの最近の一枚と図鑑のアルバムに画像の拡大表示を追加。作品・キャラ・取得日時・出典・お気に入り/固定状態を確認できます。Esc/閉じるで元の操作へ戻り、画像欠損は案内表示。保存画像だけを使い検索や外部画像取得は行いません。無料・追加ソフト不要、既存のデータ・画像・アルバム・検索休止・上限を保持。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.20/ProjectChappy-0.5.20.zip",
+  "size": 14350246,
+  "sha256": "6744498aa88d93b0de554b5f55707b5e2bdb0a69233b5175f7fb04c490a34dd7",
+  "notes": "ホームに今日の話題を追加。出典付きの確認済み知識からChappyが日替わりで1件紹介。今日のキャラ/ゲームを優先し、直近の紹介が少ない知識を選びます。選択は再起動後も保持、ストーリー本文は開いて読む方式。推測・未確認・アーカイブ・ミュート対象を除外。無料・追加ソフト不要、検索やAI生成なし。画像・データ・好み・会話・検索休止・上限を保持。"
 }
