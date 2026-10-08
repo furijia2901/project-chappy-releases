@@ -1,9 +1,9 @@
 {
-  "version": "0.7.1",
+  "version": "0.7.2",
   "schema": 10,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.1/ProjectChappy-0.7.1.zip",
-  "size": 16637283,
-  "sha256": "710be0db26668d6327e46a6ede731e9008f37da65f3b167a35dfcdc9046bafd6",
-  "notes": "読めないサイトだけ休ませ、別の資料へ。Source Health・ページ/ドメイン別休止・Retry-After/バックオフ・最大2資料の代替取得・一部取得/情報源不足・研究Backlog・ゲーム別情報源・利用禁止を追加。検索サービス休止とページ失敗を分離、既存休止/拒否URLを保持。AUTOPILOT無料初期設定/上限を維持。資料は未確認、画像はリンクのみ。DB10・依存関係据置。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.2/ProjectChappy-0.7.2.zip",
+  "size": 17034294,
+  "sha256": "c6a2cbea5757856c7ea1720256cf6eab6661326fe79706f2d19f95a95cc24d41",
+  "notes": "ニュースを、読みやすく。同一掲載/同日見出しを表示上まとめ、出典ごとの内容比較と一括既読を追加。元の記録・未確認状態・変更された本文を保持。AUTOPILOT無料初期設定、検索休止・上限・画像・会話・バックアップを維持。DB10・依存関係据置。"
 }
