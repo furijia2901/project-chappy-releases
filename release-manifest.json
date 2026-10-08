@@ -1,9 +1,9 @@
 {
-  "version": "0.6.0",
+  "version": "0.6.1",
   "schema": 10,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.6.0/ProjectChappy-0.6.0.zip",
-  "size": 14453965,
-  "sha256": "3fc3556b54609fe2df36f7de666bac248c5c28015d06922eb9d7c821cc91f5df",
-  "notes": "全ゲーム対応のゲーム図鑑と新しい発見を追加。武器・アイテム・関連対象・別名・出典・鮮度・画像情報を管理。無料の制限付き自律探索と研究ログに対応。日替わり4方式・連続選出抑制。DB9→10のバックアップ付き移行、既存データ・画像・検索休止を保持。クラウドは接続待ち。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.6.1/ProjectChappy-0.6.1.zip",
+  "size": 14460961,
+  "sha256": "c1b8db444991ab339feeaab6f1194492eee2f11c69f6679285bb9012ba737a63",
+  "notes": "今日の話題から、出典付きの質問下書きを開けるようにしました。自分で送信し、選んだ知識を最初の参照候補に固定。編集・削除・確認状態変更は送信前に再確認。ストーリーは開いてから引き継ぎ。会話時点の出典を保持。無料・追加ソフト不要、DB10・依存関係据置。"
 }
