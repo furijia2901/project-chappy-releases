@@ -1,9 +1,9 @@
 {
-  "version": "0.6.1",
+  "version": "0.7.0",
   "schema": 10,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.6.1/ProjectChappy-0.6.1.zip",
-  "size": 14460961,
-  "sha256": "c1b8db444991ab339feeaab6f1194492eee2f11c69f6679285bb9012ba737a63",
-  "notes": "今日の話題から、出典付きの質問下書きを開けるようにしました。自分で送信し、選んだ知識を最初の参照候補に固定。編集・削除・確認状態変更は送信前に再確認。ストーリーは開いてから引き継ぎ。会話時点の出典を保持。無料・追加ソフト不要、DB10・依存関係据置。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.0/ProjectChappy-0.7.0.zip",
+  "size": 15781981,
+  "sha256": "845b7274d202d4dfb670c937baec88e4e98d3f49699127f7954cc63628c26000",
+  "notes": "CHAPPY AUTOPILOT：ONだけで無料の自動検索を初期設定。日次計画・研究/ニュース/古い対象の再取得・Random Curiosity・今日だけの指示・理由ログ・実績報告・画像履歴を追加。検索最大3回/日・3時間以上・資料最大4回/日・有料API予算0。既存休止とデータを維持。未確認画像は出典リンクのみ、知識抜粋は未確認。PC起動中のみ。DB10・依存関係据置。"
 }
