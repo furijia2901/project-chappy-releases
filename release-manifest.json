@@ -1,9 +1,9 @@
 {
-  "version": "0.5.20",
-  "schema": 9,
+  "version": "0.6.0",
+  "schema": 10,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.5.20/ProjectChappy-0.5.20.zip",
-  "size": 14350246,
-  "sha256": "6744498aa88d93b0de554b5f55707b5e2bdb0a69233b5175f7fb04c490a34dd7",
-  "notes": "ホームに今日の話題を追加。出典付きの確認済み知識からChappyが日替わりで1件紹介。今日のキャラ/ゲームを優先し、直近の紹介が少ない知識を選びます。選択は再起動後も保持、ストーリー本文は開いて読む方式。推測・未確認・アーカイブ・ミュート対象を除外。無料・追加ソフト不要、検索やAI生成なし。画像・データ・好み・会話・検索休止・上限を保持。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.6.0/ProjectChappy-0.6.0.zip",
+  "size": 14453965,
+  "sha256": "3fc3556b54609fe2df36f7de666bac248c5c28015d06922eb9d7c821cc91f5df",
+  "notes": "全ゲーム対応のゲーム図鑑と新しい発見を追加。武器・アイテム・関連対象・別名・出典・鮮度・画像情報を管理。無料の制限付き自律探索と研究ログに対応。日替わり4方式・連続選出抑制。DB9→10のバックアップ付き移行、既存データ・画像・検索休止を保持。クラウドは接続待ち。"
 }
