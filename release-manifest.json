@@ -1,9 +1,9 @@
 {
-  "version": "0.7.3",
+  "version": "0.7.4",
   "schema": 10,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.3/ProjectChappy-0.7.3.zip",
-  "size": 17040665,
-  "sha256": "b769bc8c1dab5b5bd32b1ac9b20ab89b1faae0ba0c09467ffd8044900815d0c5",
-  "notes": "ページも絵も、Chappyに。AUTOPILOTが今日のキャラの公開ページと画像をランダムに探し、出典付きでホームへ自動設定。固定/登録画像を優先、取得失敗時は今の絵を維持。未確認の対応/作者/利用条件を明示。共有検索上限/休止を保持。自動画像ON/OFF追加。DB10・追加費用なし。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.4/ProjectChappy-0.7.4.zip",
+  "size": 17048695,
+  "sha256": "323c6ee407127de468577a3618076f7da16d61c34a1c8566a4084b3ba4863efc",
+  "notes": "休む日にも今日の画像探索を予定。今日の研究テーマ・対象・選定理由・検索語・情報源・結果をホームで確認。候補と実行記録を区別。手動休止/検索制限/設定を維持。DB10・無料。"
 }
