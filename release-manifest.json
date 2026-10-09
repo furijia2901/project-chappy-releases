@@ -1,9 +1,9 @@
 {
-  "version": "0.7.12",
+  "version": "0.7.13",
   "schema": 10,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.12/ProjectChappy-0.7.12.zip",
-  "size": 17104734,
-  "sha256": "e9df4da40e9aaf98c57426ff88ae1b944bcb0e8cfa3668729befba0b9a9e4b0b",
-  "notes": "Windowsで一時DBが使用中になり完全バックアップ保存が止まる問題を修正。DB接続を確実に閉じ、失敗時に処理名とOS・Windowsエラー番号を表示。既存データと検索上限を保持。DB10。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.13/ProjectChappy-0.7.13.zip",
+  "size": 17107311,
+  "sha256": "c2a763c9c1d3203ee721445364818072f182ad686ca6ec1a283f66b86538e560",
+  "notes": "完全バックアップのDB構造判定を修正。SQLの空白・改行・キーワードの大文字小文字の差だけなら同じ構造として確認し、制約・既定値・列・トリガー等の変更は引き続き拒否。構造不一致時は確認できなかった項目を表示。既存データ・検索上限5回を保持。DB10。"
 }
