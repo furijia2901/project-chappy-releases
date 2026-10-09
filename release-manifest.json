@@ -1,9 +1,9 @@
 {
-  "version": "0.7.7",
+  "version": "0.7.8",
   "schema": 10,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.7/ProjectChappy-0.7.7.zip",
-  "size": 17076653,
-  "sha256": "4267d5a7a91a99808b6746b228e8e5ac854e4a2ad5424ea04e452dbe16d7cc39",
-  "notes": "研究室にBrave API接続テストを追加。Windowsでキーを保護、ゲーム名で1回検索し結果は一時表示のみ。自動研究の検索先は変更なし。共有日次予算・月90回上限、検索結果の長期保存は契約確認後。DB10。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.8/ProjectChappy-0.7.8.zip",
+  "size": 17089955,
+  "sha256": "bae1cca54ff0a9c3e953971a2076be86167239775973ed4281bbf881d9544f1f",
+  "notes": "カード不要のTavily無料枠向け検索テストを追加。Basic固定・手動1回・結果は一時表示、キーはWindowsで保護。共有日次予算・月90回制限。自動研究の検索先は変更なし。DB10。"
 }
