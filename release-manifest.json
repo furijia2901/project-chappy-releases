@@ -1,9 +1,9 @@
 {
-  "version": "0.7.18",
+  "version": "0.8.0",
   "schema": 10,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.18/ProjectChappy-0.7.18.zip",
-  "size": 18276495,
-  "sha256": "43035b57eec2265389ea513d7001a4d1333c3afb887950acbb21eedd6c2c4ea4",
-  "notes": "無料のPC内画像認識プレビューを追加。確認した基準画像と絵を比較し、キャラ候補・類似度・判断理由を未確認の記録として保存。Ollamaの画像対応ローカルモデルが必要。図鑑・ホーム・AI知識は自動変更しません。既存データ・DB10を保持。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.8.0/ProjectChappy-0.8.0.zip",
+  "size": 18513192,
+  "sha256": "efc236bba255b5d9aacd9b1c998cafea7d9f4f29b4e66db19c8e7ddfb129da05",
+  "notes": "CHAPPY ART LAB 大型更新。保存した絵の自動判定キュー、判定後のホーム採用、通常・別衣装の基準画像2枚、キャラ対応の訂正と分類、画像研究室の進捗を追加。無料のPC内Ollamaを使用。既定1日6回・休止と固定を尊重。既存DB10・画像・設定・履歴を保持。"
 }
