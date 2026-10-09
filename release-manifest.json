@@ -1,9 +1,9 @@
 {
-  "version": "0.7.17",
+  "version": "0.7.18",
   "schema": 10,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.17/ProjectChappy-0.7.17.zip",
-  "size": 18028298,
-  "sha256": "419ee446d90a4b9a9f9206d20de2d638ec9dd3ec33298cfd82d03ee213c1d4d0",
-  "notes": "公式サイトの入力をお任せに。更新後の初回起動で、初期ゲーム9本と対応する登録名の空欄URLを自動設定。新規ゲームにも対応名の公式URLを補完。ゲームライブラリに一括設定ボタンを追加。既存URL・画像・研究設定・DB10を保持。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.18/ProjectChappy-0.7.18.zip",
+  "size": 18276495,
+  "sha256": "43035b57eec2265389ea513d7001a4d1333c3afb887950acbb21eedd6c2c4ea4",
+  "notes": "無料のPC内画像認識プレビューを追加。確認した基準画像と絵を比較し、キャラ候補・類似度・判断理由を未確認の記録として保存。Ollamaの画像対応ローカルモデルが必要。図鑑・ホーム・AI知識は自動変更しません。既存データ・DB10を保持。"
 }
