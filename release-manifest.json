@@ -1,9 +1,9 @@
 {
-  "version": "0.7.5",
+  "version": "0.7.6",
   "schema": 10,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.5/ProjectChappy-0.7.5.zip",
-  "size": 17055159,
-  "sha256": "2f4134c44a5e7a9d9060415594fd2d4441a258aa7a1a4804e020b6da98c55f98",
-  "notes": "一度の自動探索で同じ公開ページから最大3枚をアルバムへ保存し、ホームの一枚をランダム選択。候補不足は1〜2枚、取得失敗は今の絵を維持。検索回数は増加なし。保存枚数・結果表示、重複抑制、登録/固定/休止優先。DB10・無料。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.6/ProjectChappy-0.7.6.zip",
+  "size": 17064306,
+  "sha256": "ca2971355583979560d0da87b2d580ce7ed8bac13e3d91723e382ee582e2c7b6",
+  "notes": "検索休止中も保存候補から画像を取得。図鑑に今すぐ試すボタン、フリージアの公式立ち絵URL候補、最大3ページの見送り・次候補への切替。検索休止期限・利用禁止・固定画像・無料予算を維持。DB10。"
 }
