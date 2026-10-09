@@ -1,9 +1,9 @@
 {
-  "version": "0.7.9",
+  "version": "0.7.10",
   "schema": 10,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.9/ProjectChappy-0.7.9.zip",
-  "size": 17100685,
-  "sha256": "134427b699e8feb7b0eafa85f705dd08e22c3f118e825c74a4d0f3b33f7473ec",
-  "notes": "Tavilyを自動研究・図鑑探索・今日の画像探しに接続。月500回の共有上限、公式APIの残りクレジット・確認時刻・検索予約を表示。Basic固定、検索先と休止を分離、既存の日次上限と画像優先を維持。DB10。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.10/ProjectChappy-0.7.10.zip",
+  "size": 17101407,
+  "sha256": "e5179e0badc30cb52f4f864a7e6a4f793ae0fb987596c2017e6477bb5da57fd8",
+  "notes": "自動研究と画像探しの共有検索上限を最大5回/日に拡張。AUTOPILOTの高度な設定から5を選んで保存すると旧探索上限も同期。既存設定・月500回・3時間間隔・資料確認と画像上限・APIキーを保持。DB10。"
 }
