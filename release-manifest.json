@@ -1,9 +1,9 @@
 {
-  "version": "0.7.11",
+  "version": "0.7.12",
   "schema": 10,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.11/ProjectChappy-0.7.11.zip",
-  "size": 17102566,
-  "sha256": "2303d7045523d151b03b84452ad5b1a643b01d8436fe31909dd23c6494d61af5",
-  "notes": "Windowsで完全バックアップ保存に失敗する原因となるZIPの最終同期処理を修正。空き容量不足・書き込み権限・OSエラー番号も表示。既存データと検索上限を保持。DB10。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.12/ProjectChappy-0.7.12.zip",
+  "size": 17104734,
+  "sha256": "e9df4da40e9aaf98c57426ff88ae1b944bcb0e8cfa3668729befba0b9a9e4b0b",
+  "notes": "Windowsで一時DBが使用中になり完全バックアップ保存が止まる問題を修正。DB接続を確実に閉じ、失敗時に処理名とOS・Windowsエラー番号を表示。既存データと検索上限を保持。DB10。"
 }
