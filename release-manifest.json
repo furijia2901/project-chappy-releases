@@ -1,9 +1,9 @@
 {
-  "version": "0.7.8",
+  "version": "0.7.9",
   "schema": 10,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.8/ProjectChappy-0.7.8.zip",
-  "size": 17089955,
-  "sha256": "bae1cca54ff0a9c3e953971a2076be86167239775973ed4281bbf881d9544f1f",
-  "notes": "カード不要のTavily無料枠向け検索テストを追加。Basic固定・手動1回・結果は一時表示、キーはWindowsで保護。共有日次予算・月90回制限。自動研究の検索先は変更なし。DB10。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.9/ProjectChappy-0.7.9.zip",
+  "size": 17100685,
+  "sha256": "134427b699e8feb7b0eafa85f705dd08e22c3f118e825c74a4d0f3b33f7473ec",
+  "notes": "Tavilyを自動研究・図鑑探索・今日の画像探しに接続。月500回の共有上限、公式APIの残りクレジット・確認時刻・検索予約を表示。Basic固定、検索先と休止を分離、既存の日次上限と画像優先を維持。DB10。"
 }
