@@ -1,9 +1,9 @@
 {
-  "version": "0.7.6",
+  "version": "0.7.7",
   "schema": 10,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.6/ProjectChappy-0.7.6.zip",
-  "size": 17064306,
-  "sha256": "ca2971355583979560d0da87b2d580ce7ed8bac13e3d91723e382ee582e2c7b6",
-  "notes": "検索休止中も保存候補から画像を取得。図鑑に今すぐ試すボタン、フリージアの公式立ち絵URL候補、最大3ページの見送り・次候補への切替。検索休止期限・利用禁止・固定画像・無料予算を維持。DB10。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.7/ProjectChappy-0.7.7.zip",
+  "size": 17076653,
+  "sha256": "4267d5a7a91a99808b6746b228e8e5ac854e4a2ad5424ea04e452dbe16d7cc39",
+  "notes": "研究室にBrave API接続テストを追加。Windowsでキーを保護、ゲーム名で1回検索し結果は一時表示のみ。自動研究の検索先は変更なし。共有日次予算・月90回上限、検索結果の長期保存は契約確認後。DB10。"
 }
