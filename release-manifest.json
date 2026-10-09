@@ -1,9 +1,9 @@
 {
-  "version": "0.7.2",
+  "version": "0.7.3",
   "schema": 10,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.2/ProjectChappy-0.7.2.zip",
-  "size": 17034294,
-  "sha256": "c6a2cbea5757856c7ea1720256cf6eab6661326fe79706f2d19f95a95cc24d41",
-  "notes": "ニュースを、読みやすく。同一掲載/同日見出しを表示上まとめ、出典ごとの内容比較と一括既読を追加。元の記録・未確認状態・変更された本文を保持。AUTOPILOT無料初期設定、検索休止・上限・画像・会話・バックアップを維持。DB10・依存関係据置。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.3/ProjectChappy-0.7.3.zip",
+  "size": 17040665,
+  "sha256": "b769bc8c1dab5b5bd32b1ac9b20ab89b1faae0ba0c09467ffd8044900815d0c5",
+  "notes": "ページも絵も、Chappyに。AUTOPILOTが今日のキャラの公開ページと画像をランダムに探し、出典付きでホームへ自動設定。固定/登録画像を優先、取得失敗時は今の絵を維持。未確認の対応/作者/利用条件を明示。共有検索上限/休止を保持。自動画像ON/OFF追加。DB10・追加費用なし。"
 }
