@@ -1,9 +1,9 @@
 {
-  "version": "0.7.13",
+  "version": "0.7.14",
   "schema": 10,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.13/ProjectChappy-0.7.13.zip",
-  "size": 17107311,
-  "sha256": "c2a763c9c1d3203ee721445364818072f182ad686ca6ec1a283f66b86538e560",
-  "notes": "完全バックアップのDB構造判定を修正。SQLの空白・改行・キーワードの大文字小文字の差だけなら同じ構造として確認し、制約・既定値・列・トリガー等の変更は引き続き拒否。構造不一致時は確認できなかった項目を表示。既存データ・検索上限5回を保持。DB10。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.14/ProjectChappy-0.7.14.zip",
+  "size": 17109194,
+  "sha256": "cd759571933d258b5719935d835cc44f6f3911b0d8cb5374cf1df274ba9da51e",
+  "notes": "完全バックアップ保存の旧DB互換性を修正。ゲームのstatus・ニュースのcategoryに残った既知の文字化け初期値2件を限定して認識し、保存・復元・再保存に対応。元DBと登録内容は書き換えず、構造・画像・整合性の確認は継続。既存設定と検索上限5回を保持。DB10。"
 }
