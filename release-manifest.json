@@ -1,9 +1,9 @@
 {
-  "version": "0.7.15",
+  "version": "0.7.16",
   "schema": 10,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.15/ProjectChappy-0.7.15.zip",
-  "size": 17151449,
-  "sha256": "4823857245c303ef52e6b5e6e28a8b4bc936ed903788221d0da9697ac03e3cba",
-  "notes": "図鑑のお任せ抽選を追加。登録した公式一覧からゲームを選び、新キャラを1回最大3人ずつランダム追加（人数変更可）。候補の持越し・重複と見送りの除外・再起動とバックアップでの設定保持に対応。DB10、旧DBバックアップ互換、Tavily、検索上限5回を保持。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.16/ProjectChappy-0.7.16.zip",
+  "size": 17588910,
+  "sha256": "e3de33a01f6852c574cea428657be7b3ae852c3ac48b88564ebea7564f6e8912",
+  "notes": "ゲームライブラリの画像をお任せで自動設定。公式サイト・保存済みの最新公式ニュース画像を利用、固定画像の保護・取得元表示・失敗時の現画像維持に対応。図鑑の公式一覧の重複登録エラーを修正し、ステラソラの動的一覧に対応。DB10・旧DBバックアップ互換・Tavily・検索上限5回を保持。"
 }
