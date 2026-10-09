@@ -1,9 +1,9 @@
 {
-  "version": "0.7.16",
+  "version": "0.7.17",
   "schema": 10,
   "launcher_api": 1,
-  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.16/ProjectChappy-0.7.16.zip",
-  "size": 17588910,
-  "sha256": "e3de33a01f6852c574cea428657be7b3ae852c3ac48b88564ebea7564f6e8912",
-  "notes": "ゲームライブラリの画像をお任せで自動設定。公式サイト・保存済みの最新公式ニュース画像を利用、固定画像の保護・取得元表示・失敗時の現画像維持に対応。図鑑の公式一覧の重複登録エラーを修正し、ステラソラの動的一覧に対応。DB10・旧DBバックアップ互換・Tavily・検索上限5回を保持。"
+  "url": "https://github.com/furijia2901/project-chappy-releases/releases/download/v0.7.17/ProjectChappy-0.7.17.zip",
+  "size": 18028298,
+  "sha256": "419ee446d90a4b9a9f9206d20de2d638ec9dd3ec33298cfd82d03ee213c1d4d0",
+  "notes": "公式サイトの入力をお任せに。更新後の初回起動で、初期ゲーム9本と対応する登録名の空欄URLを自動設定。新規ゲームにも対応名の公式URLを補完。ゲームライブラリに一括設定ボタンを追加。既存URL・画像・研究設定・DB10を保持。"
 }
